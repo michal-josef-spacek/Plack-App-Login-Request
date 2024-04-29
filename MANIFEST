@@ -18,6 +18,7 @@ MANIFEST			This list of files
 META.yml
 README
 Request.pm
+SIGNATURE
 t/Plack-App-Login-Request/01-use.t
 t/Plack-App-Login-Request/02-version.t
 xt/Plack-App-Login-Request/01-pod_coverage.t
