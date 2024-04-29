@@ -478,11 +478,17 @@ Returns Plack::Component object.
   <img src="https://raw.githubusercontent.com/michal-josef-spacek/Plack-App-Login-Request/master/images/plack_app_login_request.png" alt="Web app example" width="300px" height="300px" />
 </a>
 
+=end html
+
 =head1 DEPENDENCIES
 
-L<Plack::Component::Tags::HTML>,
+L<Plack::Component::Tags::HTM>,
+L<Plack::Request>,
+L<Plack::Response>,
+L<Plack::Session>,
 L<Plack::Util::Accessor>,
-L<Tags::HTML::Login::Button>.
+L<Tags::HTML::Container>,
+L<Tags::HTML::Login::Request>.
 
 =head1 SEE ALSO
 

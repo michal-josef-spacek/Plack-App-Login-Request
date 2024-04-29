@@ -324,3 +324,34 @@ EXAMPLE
 
      # Output screenshot is in images/ directory.
 
+DEPENDENCIES
+    Plack::Component::Tags::HTM, Plack::Request, Plack::Response,
+    Plack::Session, Plack::Util::Accessor, Tags::HTML::Container,
+    Tags::HTML::Login::Request.
+
+SEE ALSO
+    Plack::App::Login
+        Plack login application.
+
+    Plack::App::Login::Password
+        Plack login/password application.
+
+    Plack::App::Register
+        Plack register application.
+
+REPOSITORY
+    <https://github.com/michal-josef-spacek/Plack-App-Login-Request>
+
+AUTHOR
+    Michal Josef Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+    © 2024 Michal Josef Špaček
+
+    BSD 2-Clause License
+
+VERSION
+    0.01
+
