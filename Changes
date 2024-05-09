@@ -1,5 +1,6 @@
 0.03
  - Add lang() and text() accessor for translations.
+ - Add tests for errors.
 
 0.02 2024-05-01T19:00:47+02:00
  - Add image to doc.
