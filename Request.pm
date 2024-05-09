@@ -230,18 +230,6 @@ Language in ISO 639-2 code.
 
 Default value is undef.
 
-=item * C<login_link>
-
-Login link.
-
-Default value is 'login'.
-
-=item * C<login_title>
-
-Login title.
-
-Default value is 'LOGIN'.
-
 =item * C<psgi_app>
 
 PSGI application to run instead of normal process.

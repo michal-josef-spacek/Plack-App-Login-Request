@@ -83,18 +83,6 @@ METHODS
 
             Default value is undef.
 
-    *       "login_link"
-
-            Login link.
-
-            Default value is 'login'.
-
-    *       "login_title"
-
-            Login title.
-
-            Default value is 'LOGIN'.
-
     *       "psgi_app"
 
             PSGI application to run instead of normal process. Intent of
