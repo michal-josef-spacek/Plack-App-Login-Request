@@ -1,4 +1,4 @@
-0.03
+0.03 2024-05-09T18:53:33+02:00
  - Add lang() and text() accessor for translations.
  - Add tests for errors.
  - Remove obsolete accessors from doc.
